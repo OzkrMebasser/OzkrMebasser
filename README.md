@@ -3,10 +3,9 @@
 ###
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Boogaloo&size=25&pause=1000&color=D4AF37&random=false&width=435&lines=I'M++A+FULL-STACK++WEB+DEVELOPER;I'M+A+PROGRAMMER;I'M+AN+ENTHUSIAST;I'M+CREATIVE;I'M+A+PROBLEM+SOLVER" alt="Typing SVG" /></a>
 <br/>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<div align="left">
 
-</div>
+[https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
+
 ###
  <hr/>
 <h4 align="left">👨‍💻 ABOUT ME</h4>
