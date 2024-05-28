@@ -85,5 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 <hr/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzkrMebasser&layout=compact)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzkrMebasser&layout=compact&theme=dark)
