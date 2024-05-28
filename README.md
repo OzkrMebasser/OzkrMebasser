@@ -87,4 +87,4 @@
 <hr/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OzkrMebasser&theme=default)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OzkrMebasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
