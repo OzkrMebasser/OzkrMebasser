@@ -11,10 +11,8 @@
 <p align="left">✨ Creating and learning from bugs since March 2020...<br>📚 Currently focused on: Mastering TypeScript<br>🎯 Ultimate Goal: Evolve into a proficient and versatile full-stack developer</p>
 
 ###
-
  <hr/>
- ###
-<h4 align="center">⚒️ Front end and Backend Technologies ⚒️</h4>
+<h4 align="left">⚒️ FRONTEND AND BACKEND TECHNOLOGIES THAT I PLAY WITH ⚒️</h4>
 
 ###
 
