@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=25&pause=1000&color=F7F7F7&random=false&width=435&lines=HELLO+WORLD!+%F0%9F%8C%8E%2C+I'M+OSCAR+MORENO+%F0%9F%91%8B" alt="Typing SVG" /></a>
 ###
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Boogaloo&size=25&pause=1000&color=D4AF37&random=false&width=435&lines=I'M++A+FULL-STACK++WEB+DEVELOPER;I'M+A+PROGRAMMER;I'M+AN+ENTHUSIAST;I'M+CREATIVE;I'M+A+PROBLEM+SOLVER" alt="Typing SVG" /></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ###
  <hr/>
 <h4 align="left">👨‍💻 ABOUT ME</h4>
