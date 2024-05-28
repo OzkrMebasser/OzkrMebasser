@@ -1,4 +1,4 @@
-##<h1 align="left">Hello World! 🌎, it's me ! 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!+%F0%9F%8C%8E%2C+it's+me+!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ###
 
