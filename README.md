@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! 🌎, it's me ! 👋</h1>
+##<h1 align="left">Hello World! 🌎, it's me ! 👋</h1>
 
 ###
 
@@ -10,13 +10,14 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-###
+##
 
 <p align="left">✨ Creating and learning from bugs since March 2020...<br>📚 Currently focused on: Mastering TypeScript<br>🎯 Ultimate Goal: Evolve into a proficient and versatile full-stack developer</p>
 
 ###
-
-<h2 align="left">🛠️ Tools I Utilize:</h2>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 ###
 
