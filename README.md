@@ -12,7 +12,7 @@
 
 ###
  <hr/>
-<h4 align="left">⚒️ FRONTEND AND BACKEND TECHNOLOGIES THAT I PLAY WITH ⚒️</h4>
+<h4 align="left">⚒️ MY FRONTEND AND BACKEND TOOLKIT ⚒️</h4>
 
 ###
 
