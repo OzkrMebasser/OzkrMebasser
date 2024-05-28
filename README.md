@@ -3,6 +3,7 @@
 ###
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Boogaloo&size=25&pause=1000&color=D4AF37&random=false&width=435&lines=I'M++A+FULL-STACK++WEB+DEVELOPER;I'M+A+PROGRAMMER;I'M+AN+ENTHUSIAST;I'M+CREATIVE;I'M+A+PROBLEM+SOLVER" alt="Typing SVG" /></a>
 <br/>
+[![LinkedIn](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
 
 ###
