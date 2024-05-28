@@ -86,10 +86,12 @@
 </div>
 <hr/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OzkrMebasser&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OzkrMebasser&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
