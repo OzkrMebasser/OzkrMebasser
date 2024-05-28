@@ -88,7 +88,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
 
-<a href="[https://git.io/streak-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OzkrMebasser&layout=compact)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzkrMebasser&layout=compact" alt="GitHub Streak" /></a>
+<a href="[https://git.io/streak-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkrmebasser&layout=compact)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozkrmebasser&layout=compact" alt="GitHub Streak" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OzkrMebasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
