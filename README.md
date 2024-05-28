@@ -1,7 +1,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=HELLO+WORLD!+%F0%9F%8C%8E%2C+IT'S+ME+!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhhNWx0NDd0bm10ZGpuMHdiZDVqZ2EwbTF0ZnAwdTRsYWYzZXpwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" />
+<img align="left" src="https://media.giphy.com/media/NnNv1YSPgRdyGDRWQX/giphy.gif" />
 
 ###
 
