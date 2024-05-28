@@ -6,13 +6,6 @@
 [![Bookstack](https://img.shields.io/badge/%20my%20portfolio%20-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white&color=D4AF37)](https://oscarmorenodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
 
-[![Bookstack](https://img.shields.io/badge/%20my%20portfolio%20-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white&color=D4AF37)](https://oscarmorenodev.vercel.app/)
-{:target="_blank"}
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
-{:target="_blank"}
-
-
 ###
  <hr/>
 <h4 align="left">👨‍💻 ABOUT ME</h4>
@@ -91,5 +84,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
-
+<hr/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkrmebasser&layout=compact)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
