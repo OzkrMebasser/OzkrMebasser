@@ -87,5 +87,4 @@
 <hr/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OzkrMebasser&theme=default)
