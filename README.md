@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍💻 ABOUT ME</h2>
 
-##
+###
 
 <p align="left">✨ Creating and learning from bugs since March 2020...<br>📚 Currently focused on: Mastering TypeScript<br>🎯 Ultimate Goal: Evolve into a proficient and versatile full-stack developer</p>
 
