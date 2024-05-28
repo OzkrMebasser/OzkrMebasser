@@ -6,8 +6,11 @@
 [![Bookstack](https://img.shields.io/badge/%20my%20portfolio%20-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white&color=D4AF37)](https://oscarmorenodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
 
-[![Bookstack](https://img.shields.io/badge/%20my%20portfolio%20-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white&color=D4AF37)](https://oscarmorenodev.vercel.app/{:target="_blank"})
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/){:target="_blank"}
+[![Bookstack](https://img.shields.io/badge/%20my%20portfolio%20-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white&color=D4AF37)](https://oscarmorenodev.vercel.app/)
+{:target="_blank"}
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-antonio-moreno-martinez/)
+{:target="_blank"}
 
 
 ###
