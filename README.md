@@ -1,11 +1,8 @@
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=HELLO+WORLD!+%F0%9F%8C%8E%2C+I'M+OSCAR+MORENO!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ###
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Boogaloo&size=25&pause=1000&color=D4AF37&random=false&width=435&lines=I'M+OSCAR+MORENO;I'M++A+FULL-STACK++WEB+DEVELOPER;I'M+A+PROGRAMMER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Boogaloo&size=25&pause=1000&color=D4AF37&random=false&width=435&lines=I'M++A+FULL-STACK++WEB+DEVELOPER;I'M+A+PROGRAMMER;I'M+AN+ENTHUSIAST;I'M+CREATIVE;I'M+PROBLEM+SOLVER" alt="Typing SVG" /></a>
 
 ###
 
@@ -16,6 +13,7 @@
 <p align="left">✨ Creating and learning from bugs since March 2020...<br>📚 Currently focused on: Mastering TypeScript<br>🎯 Ultimate Goal: Evolve into a proficient and versatile full-stack developer</p>
 
 ###
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -74,7 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
 
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -89,5 +86,3 @@
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OzkrMebasser.OzkrMebasser" />
-
-
